@@ -1,8 +1,8 @@
 # addbook
 ##사용언어
-    - Python
-    - MySQL
-    - PyQt와 Designer를 이용한 GUI 설계
+- Python
+- MySQL
+- PyQt5와 Designer를 이용한 GUI 설게
 ## 설치방법
     - code01.py
 ## 주요기능
